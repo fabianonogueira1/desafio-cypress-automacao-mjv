@@ -21,7 +21,7 @@ conteúdo do campo “name” da estrutura “list”. Validar o status code da
 resposta do serviço. Ao concluir o teste, nos encaminhe o Link do GITHUB/ GITLAB ou do BITBUCKET
 para que possamos acessar.
 
->>>>>>>>>>>>>>>>>>>> Criterios de aceite >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#Criterios de aceite#
 Cenario de teste:
 -visitar site “https://demo.automationtesting.in/Register.html” 
 -Preeencher Formulario com campos obrigatorios:
@@ -36,11 +36,11 @@ CT 08 Confirm Password senha123
 CT 09 Clicar botão Submit
 CT 10 Screenshots
 
->>>>>>>>>>>>>>>>>>>> Desafio com framework Cypress<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>
+# Desafio com framework Cypress #
 
 Terminal usar comando "npx cypress open" para abrir o cypress
 Escolher opção E2E TEST RODAR A AUTOMAÇÃO
 
->>>>>>>>>>>>>>>>>>>> Gethub <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 
